@@ -1,0 +1,38 @@
+:root {
+    width:600px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16pt;
+}
+
+.navHeader {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+.navText {
+    padding: 5px;
+}
+
+.spacer {
+    width:500px;
+}
+
+.picDets {
+    width:100%;
+    margin:auto;
+}
+
+.navBase {
+    display: flex;
+    margin:10px;
+}
+
+.iPadding {
+    padding: 5px;
+}
+
+.base {
+    padding:10px;
+}
